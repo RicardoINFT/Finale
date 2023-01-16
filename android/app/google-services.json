@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741293442603",
+    "project_id": "ffqrg-99d73",
+    "storage_bucket": "ffqrg-99d73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741293442603:android:f4be9a4f1bc8d040bccc6e",
+        "android_client_info": {
+          "package_name": "com.finale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741293442603-21ii5o9j0h5t8n8gd9jhlgglh4jrsfr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcYVJ5f_KfWOeklczhm43om3PtkA7fFDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741293442603-21ii5o9j0h5t8n8gd9jhlgglh4jrsfr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
